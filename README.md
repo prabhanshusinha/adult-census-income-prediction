@@ -6,13 +6,6 @@ The project uses a **Random Forest Classifier** with Scikit-learn preprocessing 
 
 ---
 
-## 🚀 Live Demo
-
-🔗 **Streamlit App:**  
-_Add your deployed Streamlit URL here_
-
----
-
 ## 📌 Project Overview
 
 The goal of this project is to build a classification model that predicts an individual's income category using information such as:
